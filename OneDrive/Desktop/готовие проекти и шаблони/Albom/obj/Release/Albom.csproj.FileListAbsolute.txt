@@ -1,0 +1,10 @@
+C:\Users\vital\source\repos\MyTryToDo\Albom\bin\Release\Albom.exe.config
+C:\Users\vital\source\repos\MyTryToDo\Albom\bin\Release\Albom.exe
+C:\Users\vital\source\repos\MyTryToDo\Albom\bin\Release\Albom.pdb
+C:\Users\vital\source\repos\MyTryToDo\Albom\obj\Release\Albom.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\MyTryToDo\Albom\obj\Release\Albom.Form1.resources
+C:\Users\vital\source\repos\MyTryToDo\Albom\obj\Release\Albom.Properties.Resources.resources
+C:\Users\vital\source\repos\MyTryToDo\Albom\obj\Release\Albom.csproj.GenerateResource.cache
+C:\Users\vital\source\repos\MyTryToDo\Albom\obj\Release\Albom.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\MyTryToDo\Albom\obj\Release\Albom.exe
+C:\Users\vital\source\repos\MyTryToDo\Albom\obj\Release\Albom.pdb
